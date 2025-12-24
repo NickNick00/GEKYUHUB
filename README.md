@@ -1,2 +1,0 @@
-# GEKYUHUB
-meus scripts aqui
