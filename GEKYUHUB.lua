@@ -322,11 +322,11 @@ spawn(AnimarScriptsGradient)
 -- Dados dos Jogos
 local Jogos = {
     {Nome = "Murderers vs Sheriffs Duels", Scripts = {
-        {Nome = "ESP + Hitbox + Aimbot", Loadstring = 'loadstring(game:HttpGet("https://raw.githubusercontent.com/NickNick00/Assassinos-sheriff/refs/heads/main/.lua"))()'},
-        {Nome = "Teste Simples", Loadstring = "print('Teste OK!')"}
+        {Nome = "GEKYU | DUELS", Loadstring = 'loadstring(game:HttpGet("https://raw.githubusercontent.com/NickNick00/Assassinos-sheriff/refs/heads/main/.lua"))()'},
+        {Nome = "INDISPONÍVEL", Loadstring = "print('Teste OK!')"}
     }},
-    {Nome = "Outros Jogos", Scripts = {
-        {Nome = "Auto Farm", Loadstring = "print('Auto Farm')"}
+    {Nome = "FREE THE FACILITY", Scripts = {
+        {Nome = "GEKYU | FTF", Loadstring = "loadstring(game:HttpGet("https://raw.githubusercontent.com/NickNick00/GEKYUHUB/refs/heads/main/Free%20the%20Facility.lua"))()"}
     }},
 }
 
