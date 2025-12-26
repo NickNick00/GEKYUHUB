@@ -326,7 +326,7 @@ local Jogos = {
         {Nome = "INDISPONÍVEL", Loadstring = "print('Teste OK!')"}
     }},
     {Nome = "FREE THE FACILITY", Scripts = {
-        {Nome = "GEKYU | FTF", Loadstring = "loadstring(game:HttpGet("https://raw.githubusercontent.com/NickNick00/GEKYUHUB/refs/heads/main/Free%20the%20Facility.lua"))()"}
+        {Nome = "GEKYU | FTF", Loadstring = 'loadstring(game:HttpGet("https://raw.githubusercontent.com/NickNick00/GEKYUHUB/refs/heads/main/Free%20the%20Facility.lua"))()'}
     }},
 }
 
